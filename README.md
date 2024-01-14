@@ -1,5 +1,4 @@
-EN | <a href="README.pl.md">PL</a>
-
+EN
 # Compiler of a Simple Imperative Language
 Developed as part of a Formal Languages and Translation Techniques course at Wrocław University of Science and Technology (winter 2023/2024).
 
