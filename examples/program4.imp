@@ -1,0 +1,13 @@
+PROCEDURE abcd(a) IS IN
+	WRITE a;
+END
+
+PROCEDURE abc(a) IS IN
+	WRITE a;
+END
+
+PROGRAM IS
+a[10]
+IN
+	READ a[1];
+END
